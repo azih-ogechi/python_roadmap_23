@@ -9,8 +9,12 @@ print(var_name.isalpha()) #the isalpha tells you if a string is written in alpha
 print(var_name.isdigit()) #the isdigit checks if all the characters in a string are digit values or not.
 print(var_name.islower()) #the islower tells if your string is in lowercase or not.
 #integer methods
-b = 3
-a = 2
-print(isinstance (b,int)) #
+b = 3+4j
+print("output conjugated complex number of 3+4j :",b.conjugate()) #int.conjugate returns the conjugate of any complex number
+print(int(abs(b))) #the absolute function returns the positive value
+#float methods
+x = 3.555
+print(round(x)) #round method converts to a whole number.
+print(round)
 
 
