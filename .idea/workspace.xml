@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcfb5580-2e64-45a1-8001-c40b68ab3ed9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assignment/Assignment Lesson6.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignments 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/data conversion assignment_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data conversion assignment_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/data conversion assignment_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
